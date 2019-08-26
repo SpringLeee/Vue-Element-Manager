@@ -1,5 +1,7 @@
 ﻿# element-manager
 
+# 涉及组件: Vue Vuex Vue-Resource Element UI  Vue Router
+
 > A Vue.js project
 
 ## Build Setup
