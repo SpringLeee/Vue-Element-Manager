@@ -20,3 +20,10 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
+
+![img](https://github.com/SpringLeee/Vue-Element-Manager/blob/master/imgs/img1.png)
+
+![img](https://github.com/SpringLeee/Vue-Element-Manager/blob/master/imgs/img2.png)
+
+![img](https://github.com/SpringLeee/Vue-Element-Manager/blob/master/imgs/img3.png)
+
